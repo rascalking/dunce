@@ -1,0 +1,2 @@
+# dunce
+dns learning exercise
